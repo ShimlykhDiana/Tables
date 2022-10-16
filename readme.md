@@ -6,3 +6,4 @@
 - a table of **loose** comparison;
 - a table of **strict** comparison;
 
+# Task-12.6
